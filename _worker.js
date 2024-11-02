@@ -42,9 +42,9 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443',
-	'icook.hk',
-	'time.is:443
+	'visa.cn:443#youtube.com/@AM_CLUB',
+	'icook.hk#t.me/AM_CLUBS',
+	'time.is:443#github.com/amclubs'
 ];
 let noTLS = 'false';
 let sl = 5;
